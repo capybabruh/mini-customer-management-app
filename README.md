@@ -1,6 +1,6 @@
 # PHP Mini Customer Management App
 
-Week 2 PHP Lab
+Week 1 PHP Lab
 
 ## Run
 php -S localhost:8000 -t public

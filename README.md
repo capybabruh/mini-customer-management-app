@@ -1,4 +1,4 @@
-# PHP Mini Workshop Registration
+# PHP Mini Customer Management App
 
 Week 2 PHP Lab
 
